@@ -1,3 +1,7 @@
+### Writing
+- [Notes](https://nicholasbishop.github.io)
+- [Old mostly-Blender-related blog[(http://nicholasbishop.net)
+
 ### Python
 - [bios_pnp](https://github.com/nicholasbishop/bios_pnp) -  Enumerate legacy Plug and Play devices
 
