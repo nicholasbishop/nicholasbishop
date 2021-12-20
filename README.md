@@ -1,5 +1,5 @@
 ### Writing
-- [Notes](https://nicholasbishop.github.io)
+- [nbishop.net](https://nbishop.net)
 - [Old mostly-Blender-related blog](http://nicholasbishop.net)
 
 ### Python
