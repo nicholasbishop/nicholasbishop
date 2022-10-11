@@ -1,6 +1,7 @@
 ### Writing
 - [nbishop.net](https://nbishop.net)
-- [Old mostly-Blender-related blog](http://nicholasbishop.net)
+- [Rust UEFI Book](https://rust-osdev.com/uefi-book)
+- [2012-era blog, mostly Blender related](http://nicholasbishop.net)
 
 ### Rust
 - [atlassian-app-auth](https://github.com/nicholasbishop/atlassian-app-auth) - Library for authenticating as an Atlassian Connect App
