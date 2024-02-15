@@ -6,7 +6,6 @@
 ### Rust
 - [atlassian-app-auth](https://github.com/nicholasbishop/atlassian-app-auth) - Library for authenticating as an Atlassian Connect App
 - [aws-build](https://github.com/nicholasbishop/aws-build) - Build Rust crates for deployment to AWS Lambda
-- [claws](https://github.com/nicholasbishop/claws) - AWS command-line tool
 - [cloudwatch-logs-upload](https://github.com/nicholasbishop/cloudwatch-logs-upload) - Rust library for uploading events to AWS CloudWatch Logs
 - [crdyboot](https://chromium.googlesource.com/chromiumos/platform/crdyboot/+/HEAD) - UEFI bootloader
 - [github-app-auth](https://github.com/nicholasbishop/github-app-auth) - Rust library for authenticating as a GitHub app
